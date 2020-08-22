@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe0de84f-8838-481c-82b9-489d5922a31d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pages/api/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/client/package.json" />
+    <dismissed value="$PROJECT_DIR$/server/package.json" />
+    <dismissed value="$PROJECT_DIR$/worker/package.json" />
+  </component>
+  <component name="ProjectId" id="1gREo3YGtxv88bECvSodTDJJ9vy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Anteriore/Project Apps/mind-you-website" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe0de84f-8838-481c-82b9-489d5922a31d" name="Default Changelist" comment="" />
+      <created>1598069177122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598069177122</updated>
+      <workItem from="1598069178747" duration="7388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="706" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598081198935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598081198935" />
+    <state x="987" y="335" key="FileChooserDialogImpl" timestamp="1598069952763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="987" y="335" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598069952763" />
+    <state x="491" y="194" key="SettingsEditor" timestamp="1598081026746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="194" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598081026746" />
+    <state x="667" y="101" width="585" height="837" key="find.popup" timestamp="1598071739686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="101" width="585" height="837" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598071739686" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598073816133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598073816133" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="fibonacci-complex" type="b2602c69:ProjectViewProjectNode" />
+        <item name="fibonacci-complex" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+sudo: required
+services:
+    - docker
+
+script:
+    - echo "skipping tests"
+
+after_success:
+    - docker build -t vincegnzls/multi-client ./client
+    - docker build -t vincegnzls/multi-nginx ./nginx
+    - docker build -t vincegnzls/multi-server ./server
+    - docker build -t vincegnzls/multi-worker ./worker
+    - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+    - docker push vincegnzls/multi-client
+    - docker push vincegnzls/multi-nginx
+    - docker push vincegnzls/multi-server
+    - docker push vincegnzls/multi-worker
