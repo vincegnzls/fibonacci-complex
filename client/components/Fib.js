@@ -51,6 +51,7 @@ const Fib = props => {
 
     return (
         <div>
+            <h1>My Amazing App</h1>
             <form onSubmit={handleSubmit}>
                 <label>Enter your index:</label>
                 <input value={index} onChange={event => setIndex(event.target.value)} />
